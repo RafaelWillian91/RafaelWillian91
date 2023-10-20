@@ -1,10 +1,10 @@
 Olá, Eu sou o Rafa 👋
-<h2>Javeiro em Progresso</h2>
+<h2>Desenvolvedor Java</h2>
 <b>Estudando<b>	:muscle: <br />
 <b>:closed_book:Spring<br />
 :green_book:Java<br />
 :orange_book:JavaScript<br />
-:notebook:Entre outras loucurass.....:face_exhaling:
+:notebook:Entre outras tecnologias:face_exhaling:
 
 <div align="center">
   <a href="https://github.com/RafaelWillian91">
