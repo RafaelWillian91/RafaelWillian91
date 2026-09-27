@@ -13,7 +13,7 @@ Atualmente também estou iniciando meus estudos em C# e .NET, ampliando minha ba
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,html,css,js,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,html,css,js" />
 </p>
 
 ---
