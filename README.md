@@ -84,7 +84,6 @@ Principais conceitos estudados e aplicados:
 
 - Java e Spring Boot
 - Desenvolvimento de APIs REST
-- Cache HTTP e ETag
 - C# e .NET
 - Arquitetura Back-End
 
